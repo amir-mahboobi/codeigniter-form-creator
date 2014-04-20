@@ -19,7 +19,7 @@ values (optional)=> array of dropdown list, just used when the "type" is "dropdo
 "{input-place}" will replace with element.
 
 
-"render("element name","options")" for rendering ech form element by their name.
+"render("element name","options")" for rendering each form element by their name.
 
 options=> for adding custom attributes to a form element.
 
